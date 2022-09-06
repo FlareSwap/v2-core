@@ -1,7 +1,7 @@
 {
   "name": "@flareswap/v2-core",
   "description": "Core contracts for the FlareswapV2 protocol",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://flareswap.io",
   "repository": {
     "type": "git",
